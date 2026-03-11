@@ -1,6 +1,4 @@
-# frmBMI
-
-## 簡短說明
+# 簡短說明
 
 `frmBMI` 是一個簡潔的 Windows Forms 應用程式，用於計算並顯示使用者的 BMI（身體質量指數）。
 
