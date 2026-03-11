@@ -21,7 +21,7 @@
 
 ## 操作畫面
 
-<img width="397" height="253" alt="image" src="https://github.com/user-attachments/assets/8afc45ce-014a-4bee-86e8-1051cb96b5ca" />
+<img width="398" height="255" alt="image" src="https://github.com/user-attachments/assets/271331f2-a114-48d3-af0d-14e587e29303" />
 
 ## 貢獻
 
