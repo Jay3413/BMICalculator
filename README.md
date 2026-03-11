@@ -19,6 +19,10 @@
 4. 設定專案為啟動專案。
 5. 按 F5 鍵執行應用程式。
 
+## 操作畫面
+
+<img width="397" height="253" alt="image" src="https://github.com/user-attachments/assets/8afc45ce-014a-4bee-86e8-1051cb96b5ca" />
+
 ## 貢獻
 
 歡迎任何形式的貢獻！如果您有建議或想要報告的問題，請提出問題或提交Pull Request。
@@ -27,4 +31,4 @@
 
 此專案採用 MIT LICENSE，詳情請參閱 `LICENSE.txt`。
 
-<img width="397" height="253" alt="image" src="https://github.com/user-attachments/assets/8afc45ce-014a-4bee-86e8-1051cb96b5ca" />
+

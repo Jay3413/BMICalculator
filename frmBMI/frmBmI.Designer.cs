@@ -123,7 +123,7 @@
             // 
             this.lblAns.AutoSize = true;
             this.lblAns.Font = new System.Drawing.Font("Microsoft JhengHei", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
-            this.lblAns.Location = new System.Drawing.Point(22, 35);
+            this.lblAns.Location = new System.Drawing.Point(22, 38);
             this.lblAns.Name = "lblAns";
             this.lblAns.Size = new System.Drawing.Size(149, 21);
             this.lblAns.TabIndex = 2;
@@ -132,7 +132,7 @@
             // lblResult
             // 
             this.lblResult.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
-            this.lblResult.Location = new System.Drawing.Point(177, 34);
+            this.lblResult.Location = new System.Drawing.Point(177, 38);
             this.lblResult.Name = "lblResult";
             this.lblResult.Size = new System.Drawing.Size(179, 25);
             this.lblResult.TabIndex = 3;
