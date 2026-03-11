@@ -22,7 +22,7 @@ namespace frmBMI
             bool isHeightValid = double.TryParse(txtHeight.Text, out double height);
             bool isWeightValid = double.TryParse(txtWeight.Text, out double weight);
             string[] strResultList = { "體重過輕", "健康體位", "體位過重", "輕度肥胖", "中度肥胖", "重度肥胖" };
-            Color[] colorList = { Color.Aqua, Color.Green, Color.Orange, Color.DarkOrange, Color.Red, Color.IndianRed };
+            Color[] colorList = { Color.CadetBlue, Color.Green, Color.Orange, Color.DarkOrange, Color.Red, Color.IndianRed };
             if (isHeightValid && isWeightValid)
             {
                 height /= 100;
@@ -60,6 +60,7 @@ namespace frmBMI
                 colorResult = colorList[resultIndex];
 
                 lblResult.Text = $"{bmi:F2} ({strResult})";
+                lblResult.ForeColor = Color.White;
                 lblResult.BackColor = colorResult;
 
             }
